@@ -41,7 +41,7 @@ It features:
 ## 🗂 Folder Structure
 rock-paper-scissors/
 
-├── rock_paper_scissors.html # Main HTML file
+├── index.html # Main HTML file
 
 ├── rock_paper_scissors.css # Styling and layout
 
