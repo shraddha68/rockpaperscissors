@@ -25,7 +25,8 @@ It features:
 
 ## 🖼️ Screenshot
 
-<img src="./screenshot.png" alt="Rock Paper Scissors UI" width="500"/>
+<img width="1920" height="974" alt="Screenshot 2025-07-11 195934" src="https://github.com/user-attachments/assets/995b3ad7-a143-4d39-a906-c005f39a217f" />
+
 
 ---
 
