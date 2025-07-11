@@ -70,7 +70,7 @@ No frameworks, no build tools — just open and play!
  
 ## 🌐 Live Demo
 
-🔗 Play it live here
+🔗 [Play it live here](https://shraddha68.github.io/rockpaperscissors/)
 
 ---
 
